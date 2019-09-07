@@ -1,0 +1,7 @@
+﻿  CA Test.cpp
+c:\users\admin\desktop\code_upload\cellularautomataproject\ca test\ca test.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\code_upload\cellularautomataproject\ca test\ca test.cpp(581): warning C4018: '<': signed/unsigned mismatch
+c:\users\admin\desktop\code_upload\cellularautomataproject\ca test\ca test.cpp(804): warning C4018: '<': signed/unsigned mismatch
+  stdafx.cpp
+  Generating Code...
+  CA Test.vcxproj -> C:\Users\Admin\Desktop\code_upload\CellularAutomataProject\Debug\CA Test.exe
